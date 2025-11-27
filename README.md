@@ -1,6 +1,7 @@
 📚 Book Recommender System (K-Nearest Neighbors)
 
 This Google Colab notebook implements a Collaborative Filtering Book Recommender System using the K-Nearest Neighbors (KNN) algorithm. It utilizes the Book-Crossing dataset to identify and suggest books that are highly similar to a user-provided title based on shared user ratings.
+
 🔗 Colab Notebook Link: https://colab.research.google.com/drive/1-_x-VwfLnL6hqKCJ5hdwAsS0T9MY5DsM?usp=sharing
 
 ✨ Key Features
